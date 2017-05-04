@@ -7,6 +7,9 @@
 //
 
 import UIKit
+// testing if my code shows up on github
+
+var name = "Dave 212"
 
 class ViewController: UIViewController {
 
