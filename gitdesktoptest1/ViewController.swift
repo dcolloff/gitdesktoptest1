@@ -11,6 +11,7 @@ import UIKit
 
 var name = "Dave 212"
 var merge = "Does this merge automatically and push/pull?"
+var manualmerge: String?
 
 class ViewController: UIViewController {
 
